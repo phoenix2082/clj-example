@@ -1,24 +1,11 @@
 # clj-example
 
-FIXME: Example Clojure Program
-
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar clj-example-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
+Example Clojure Program
 
 ## Examples
 
-...
+[Ceaser Cipher](https://github.com/phoenix2082/clj-example/blob/main/src/clj_example/ceaser.clj)
 
-### Bugs
+[Credit Card](https://github.com/phoenix2082/clj-example/blob/main/src/clj_example/creditcard.clj)
 
+[Game Scoreboard](https://github.com/phoenix2082/clj-example/blob/main/src/clj_example/scoreboard.clj)
