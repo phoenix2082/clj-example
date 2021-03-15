@@ -9,3 +9,5 @@ Example Clojure Program
 [Credit Card](https://github.com/phoenix2082/clj-example/blob/main/src/clj_example/creditcard.clj)
 
 [Game Scoreboard](https://github.com/phoenix2082/clj-example/blob/main/src/clj_example/scoreboard.clj)
+
+[Birthday Paradox](https://github.com/phoenix2082/clj-example/blob/main/src/clj_example/birthday_paradox.clj)
